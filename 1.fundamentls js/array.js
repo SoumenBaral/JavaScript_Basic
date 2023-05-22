@@ -15,3 +15,4 @@ num[1]=77;
 // console.log(num);
 var positionINdex = num.indexOf(23);
 console.log(positionINdex);
+//if the index is dose not exsist the value will be -1 .
